@@ -1,0 +1,25 @@
+{
+  "name": "@mx-mw/hotlog",
+  "version": "1.0.0",
+  "description": "tagged template literal logging",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mx-mw/hotlog.git"
+  },
+  "keywords": [
+    "logging",
+    "template",
+    "log",
+    "logger"
+  ],
+  "author": "max morrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mx-mw/hotlog/issues"
+  },
+  "homepage": "https://github.com/mx-mw/hotlog#readme"
+}
